@@ -18,7 +18,7 @@ EasterEgg
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht springen. Wir machen unser Spiel über unity. Die verschiedenen Elemente (Hindernisse, Figur) sind nicht miteinander verbunden und reagieren autonom. Wir möchten in diesem Projekt unity ein bisschen besser kennen lernen, was Vektoren sind und wie man mit Vektoren arbeitet.
 
 ### 1.2 User Stories
 
