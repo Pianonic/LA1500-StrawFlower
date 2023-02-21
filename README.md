@@ -23,8 +23,8 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |        Muss         |   Funktional   | Als ein Spieler möchte ich am anfang mit einem Titlescreen begrüsst werden, damit ich nicht sofort ins spiel geworfen werde. |
+| ----| --------------- | ---- | ---------------------------------- |
+| 1  |        Muss       |   Funktional   | Als ein Spieler möchte ich am anfang mit einem Titlescreen begrüsst werden, damit ich nicht sofort ins spiel geworfen werde. |
 | 2  |           Muss      |   Funktional   |   Als ein Spieler möchte ich zwischen verschiedenen spielmodis entscheiden können.     |
 | 3  |           Kann      |   Qualität     |   Als ein Spieler möchte ich beim spielen tolle musik bekommen.                                 |
 | 4  |           Muss      |   Funktional   |   Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
