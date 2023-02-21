@@ -32,7 +32,7 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 6  |           Kann      |   Funktional   |  Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mich schöner machen.     |
 | 7  |           Muss      |   Funktional   |   Als Spieler möchte ich Münzen Sammeln um idese im shop auszugeben, damit meine Figur besser aussieht.        |
 | 8  |           Kann      |   Funktional   |   Als Spieler möchte ich Powerups haben um mich kurzeitig zu retten, damit ich nicht so schnell verliere.      |
-| 9   |   
+| 9  |          Muss        |   Funktional   | Als Spieler möchte ich wissen wie weit ich gelaufen bin.      |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
