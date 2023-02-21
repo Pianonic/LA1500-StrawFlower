@@ -27,8 +27,8 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 1    |        Muss         |   Funktional   | Als ein Spieler möchte ich am anfang mit einem Titlescreen begrüsst werden, damit ich nicht sofort ins spiel geworfen werde. |
 | 2  |           Muss      |   Funktional   |    Als ein Spieler möchte ich zwischen verschiedenen spielmodis entscheiden können.                                 |
 | 3  |           Kann      |   Qualität   |    Als ein Spieler möchte ich beim spielen tolle musik bekommen.                                 |
-| 4  |           Muss      |   Funktional   |               Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
-| 5  |           Kann      |   Funktional   |               Als Spieler möchte ich mit einem Freund auf dem gleichen Laptop zusammen spielen.                    |
+| 4  |           Muss      |   Funktional   |   Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
+| 5  |           Kann      |   Funktional   |   Als Spieler möchte ich mit einem Freund auf dem gleichen Laptop zusammen spielen, damit man nicht immer alleine Spielen muss.  |
 | 6  |           Kann      |   Funktional   |               Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mich schöner machen.     |
 | 7  |           Muss      |   Funktional   |               Als Spieler möchte ich Münzen Sammeln um idese im shop auszugeben.                 |
 | 8  |           Kann      |   Funktional   |               Als Spieler möchte ich Powerups haben um mich kurzeitig zu retten.            |
