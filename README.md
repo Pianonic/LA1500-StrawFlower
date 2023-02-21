@@ -46,6 +46,7 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+![grafik](https://user-images.githubusercontent.com/110893288/220323896-8f944ed2-eeae-465c-b078-a5e21e35e7b1.png)
 
 ![Blank diagram](https://user-images.githubusercontent.com/110885770/220322741-d9e832e7-4baf-46a4-87b5-53099bd42f67.png)
 
