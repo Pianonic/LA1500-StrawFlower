@@ -25,15 +25,15 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |        Muss         |   Funktional   | Als ein Spieler möchte ich am anfang mit einem Titlescreen begrüsst werden, damit ich nicht sofort ins spiel geworfen werde. |
-| 2  |           Muss      |   Funktional   |    Als ein Spieler möchte ich zwischen verschiedenen spielmodis entscheiden können.                                 |
-| 3  |           Kann      |   Qualität     |    Als ein Spieler möchte ich beim spielen tolle musik bekommen.                                 |
+| 2  |           Muss      |   Funktional   |   Als ein Spieler möchte ich zwischen verschiedenen spielmodis entscheiden können.     |
+| 3  |           Kann      |   Qualität     |   Als ein Spieler möchte ich beim spielen tolle musik bekommen.                                 |
 | 4  |           Muss      |   Funktional   |   Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
 | 5  |           Muss      |   Funktional   |   Als Spieler möchte ich mit einem Freund auf dem gleichen Laptop zusammen spielen, damit man nicht immer alleine Spielen muss.  |
-| 6  |           Kann      |   Funktional   |  Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mich schöner machen.     |
+| 6  |           Kann      |   Funktional   |   Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mich schöner machen.     |
 | 7  |           Muss      |   Funktional   |   Als Spieler möchte ich Münzen Sammeln um idese im shop auszugeben, damit meine Figur besser aussieht.        |
 | 8  |           Kann      |   Funktional   |   Als Spieler möchte ich Powerups haben um mich kurzeitig zu retten, damit ich nicht so schnell verliere.      |
-| 9  |          Muss        |   Funktional   | Als Spieler möchte ich wissen wie weit ich gelaufen bin, damit ich sehe ob ich besser werde. |     
-| 10  |         Muss       |   Funktional    | Als Spieler möchte ich wissen wie viele Münzen ich besitze, damit ich weiss wie viele ich ausgeben kann. |
+| 9  |          Muss       |   Funktional   |   Als Spieler möchte ich wissen wie weit ich gelaufen bin, damit ich sehe ob ich besser werde. |     
+| 10 |         Muss        |   Funktional   |   Als Spieler möchte ich wissen wie viele Münzen ich besitze, damit ich weiss wie viele ich ausgeben kann. |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
