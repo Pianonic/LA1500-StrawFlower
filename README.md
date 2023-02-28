@@ -32,7 +32,7 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 6  |           Kann      |   Funktional   |   Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mein aussehen anpassen.     |
 | 7  |           Muss      |   Funktional   |   Als Spieler möchte ich Münzen Sammeln um diese im shop auszugeben, damit meine Figur besser aussieht.        |
 | 8  |           Kann      |   Funktional   |   Als Spieler möchte ich Powerups haben um mich kurzeitig zu retten, damit ich nicht so schnell verliere.      |
-| 9  |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie weit ich gelaufen bin, damit ich sehe ob ich besser werde. |     
+| 9  |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie mein laufscore ist, damit ich sehe ob ich besser werde. |     
 | 10 |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie viele Münzen ich besitze, damit ich weiss wie viele ich ausgeben kann. |
  
 
@@ -55,7 +55,9 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 6.4  | Shop  | Mit nicht genügengem Geld auf Amongus gedrückt | Sie sind zu arm. |
 | 7.1  | Singleplayer / Multiplayer  | Bewegung um zu den Münzen zu gelangen | +1 Coin | 
 | 8.1  | Singleplayer / Multiplayer und ein rettungs Item gekauft | Bewegung in ein obstical | Du wurdest wiederbelebt | 
-| 9.1  | Applikation ist gestartet | - | Oben rechts die anzahl Münzen | 
+| 9.1  | Singleplayer / Multiplayer | - | Oben link laufscore | 
+| 10.1  | Applikation ist gestartet | - | Oben rechts die anzahl Münzen | 
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
