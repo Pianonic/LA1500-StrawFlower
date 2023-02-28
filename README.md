@@ -72,7 +72,11 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |           | Titlescreen erstellen | 45 min |
-| 2.A  |       |           |              |               |
+| 2.A  |       |           | Figur Bewegung     |  45 min            |
+| 2.B  |       |           | Figur stirbt   | 30min              |
+| 2.C  |       |           | Shop neues Aussehen kaufen|  45min   |
+| 2.D  |       |           | Shop neue Items kaufen| 45 min|
+| 3.C  |       |           | Musik abspielen|
 
 Total: 
 
