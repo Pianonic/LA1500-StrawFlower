@@ -71,8 +71,8 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       |           | Titlescreen erstellen | 45 min |
+| 2.A  |       |           |              |               |
 
 Total: 
 
