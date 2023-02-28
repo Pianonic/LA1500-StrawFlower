@@ -30,7 +30,7 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 4  |           Muss      |   Funktional   |   Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
 | 5  |           Muss      |   Funktional   |   Als Spieler möchte ich mit einem Freund auf dem gleichen Laptop zusammen spielen, damit man nicht immer alleine Spielen muss.  |
 | 6  |           Kann      |   Funktional   |   Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mein aussehen anpassen.     |
-| 7  |           Muss      |   Funktional   |   Als Spieler möchte ich Münzen Sammeln um idese im shop auszugeben, damit meine Figur besser aussieht.        |
+| 7  |           Muss      |   Funktional   |   Als Spieler möchte ich Münzen Sammeln um diese im shop auszugeben, damit meine Figur besser aussieht.        |
 | 8  |           Kann      |   Funktional   |   Als Spieler möchte ich Powerups haben um mich kurzeitig zu retten, damit ich nicht so schnell verliere.      |
 | 9  |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie weit ich gelaufen bin, damit ich sehe ob ich besser werde. |     
 | 10 |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie viele Münzen ich besitze, damit ich weiss wie viele ich ausgeben kann. |
@@ -51,8 +51,11 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 5.1  | Multiplayer | P1 steuert mit W,A,S,D P2 mit UP,DOWN,LEFT,RIGHT |  2Spieler auf dem Spielfeld | 
 | 6.1  | Shop  | Mit genügeng Geld auf Item1 gedrückt |  Sie haben erfolgreich Item1 Gekauft. | 
 | 6.2  | Shop  | Mit nicht genügengem Geld auf Item1 gedrückt |  Sie sind zu arm. | 
-| 6.3  | Shop  | Mit genügeng Geld auf Cosmetic1 gedrückt | Sie haben erfolgreich Cosmetic1 Gekauft. | 
-| 6.4  | Shop  | Mit nicht genügengem Geld auf Cosmetic1 gedrückt | Sie sind zu arm. | 
+| 6.3  | Shop  | Mit genügeng Geld auf Amongus gedrückt | Sie haben erfolgreich den Amongus Skin Gekauft und ausgerüstet. | 
+| 6.4  | Shop  | Mit nicht genügengem Geld auf Amongus gedrückt | Sie sind zu arm. |
+| 7.1  | Singleplayer / Multiplayer  | Bewegung um zu den Münzen zu gelangen | +1 Coin | 
+| 8.1  | Singleplayer / Multiplayer und ein rettungs Item gekauft | Bewegung in ein obstical | Du wurdest wiederbelebt | 
+| 9.1  | Applikation ist gestartet | - | Oben rechts die anzahl Münzen | 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
