@@ -26,7 +26,7 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | ----| --------------- | ---- | ---------------------------------- |
 | 1  |        Muss       |   Funktional   | Als ein Spieler möchte ich am anfang mit einem Titlescreen begrüsst werden, damit ich nicht sofort ins spiel geworfen werde. |
 | 2  |           Muss      |   Funktional   |   Als ein Spieler möchte ich zwischen verschiedenen Menüpunkten entscheiden können.     |
-| 3  |           Kann      |   Qualität     |   Als ein Spieler möchte ich beim spielen tolle musik bekommen.                                 |
+| 3  |           Kann      |   Qualität     |   Als ein Spieler möchte ich während des spielens lustige Musik hören.                                 |
 | 4  |           Muss      |   Funktional   |   Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
 | 5  |           Muss      |   Funktional   |   Als Spieler möchte ich mit einem Freund auf dem gleichen Laptop zusammen spielen, damit man nicht immer alleine Spielen muss.  |
 | 6  |           Kann      |   Funktional   |   Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mich schöner machen.     |
@@ -41,7 +41,14 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Applikation ist gestartet  | -  | Titlescreen |
-| 2.1  | Titlescreen ist zu sehen | Singleplayer |  Im Singleplayer Modus  |
+| 2.1  | Titlescreen ist zu sehen | Singleplayer |  Singleplayer modus wird gestartet |
+| 2.2  | Titlescreen ist zu sehen | Multiplayer |  Multiplayer modus wird gestartet |
+| 2.3  | Titlescreen ist zu sehen | Shop |  Shop wird geöffnet |
+| 3.1  | Applikation ist gestartet | - |  lustige Musik |
+| 3.2  | Singleplayer / Multiplayer | - |  Andere lustige Musik |
+| 4.1  | Singleplayer | Flasches movement |  Todesscreen wird angezeigt |
+| 4.2  | Multiplayer | Flasches movement |  Bei Spieler 1 oder 2 wird der Todesscreen angezeigt, einen Score und wer gewonnen hat |
+| 5.1  | Multiplayer | P1 steuert mit W,A,S,D P2 mit UP,DOWN,LEFT,RIGHT |  2Spieler auf dem Spielfeld | 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
