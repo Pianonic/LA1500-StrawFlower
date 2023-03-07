@@ -45,7 +45,8 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 2.1  | Titlescreen ist zu sehen | Singleplayer |  Singleplayer modus wird gestartet |
 | 2.2  | Titlescreen ist zu sehen | Multiplayer |  Multiplayer modus wird gestartet |
 | 2.3  | Titlescreen ist zu sehen | Shop |  Shop wird geöffnet |
-| 3.1  | 
+| 3.1  | Singeplayer/Multiplayer ausgewählt | Spieler drückt A | Figur bewegt sich nach links |
+| 3.1  | Singeplayer/Multiplayer ausgewählt | Spieler drückt D | Figur bewegt sich nach rechts |
 | 4.1  | Applikation ist gestartet | - |  lustige Musik |
 | 4.2  | Singleplayer / Multiplayer | - |  Andere lustige Musik |
 | 5.1  | Singleplayer | Falsches movement |  Todesscreen wird angezeigt |
