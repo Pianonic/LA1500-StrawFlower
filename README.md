@@ -26,14 +26,15 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | ----| --------------- | ---- | ---------------------------------- |
 | 1  |        Muss       |   Funktional   | Als ein Spieler möchte ich am anfang mit einem Titlescreen begrüsst werden, damit ich nicht sofort ins spiel geworfen werde. |
 | 2  |           Muss      |   Funktional   |   Als ein Spieler möchte ich zwischen verschiedenen Menüpunkten entscheiden können.     |
-| 3  |           Kann      |   Qualität     |   Als ein Spieler möchte ich während des spielens lustige Musik hören.                                 |
-| 4  |           Muss      |   Funktional   |   Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
-| 5  |           Muss      |   Funktional   |   Als Spieler möchte ich mit einem Freund auf dem gleichen Laptop zusammen spielen, damit man nicht immer alleine Spielen muss.  |
-| 6  |           Kann      |   Funktional   |   Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mein aussehen anpassen.     |
-| 7  |           Muss      |   Funktional   |   Als Spieler möchte ich Münzen Sammeln um diese im shop auszugeben, damit meine Figur besser aussieht.        |
-| 8  |           Kann      |   Funktional   |   Als Spieler möchte ich Powerups haben um mich kurzeitig zu retten, damit ich nicht so schnell verliere.      |
-| 9  |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie mein laufscore ist, damit ich sehe ob ich besser werde. |     
-| 10 |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie viele Münzen ich besitze, damit ich weiss wie viele ich ausgeben kann. |
+| 3 | Muss                 |    Funktional  |   Als ein Spieler möchte ich den Objekten ausweichen können, um Spass beim Spielen zu haben. |
+| 4  |           Kann      |   Qualität     |   Als ein Spieler möchte ich während des Spielens lustige Musik hören.                                 |
+| 5  |           Muss      |   Funktional   |   Als Spieler möchte ich einen failscreen bekommen, falls ich verliere, damit man sieht, dass man verloren hat.   |
+| 6  |           Muss      |   Funktional   |   Als Spieler möchte ich mit einem Freund auf dem gleichen Laptop zusammen spielen, damit man nicht immer alleine Spielen muss.  |
+| 7  |           Kann      |   Funktional   |   Als Spieler möchte ich in einem Shop gegenstände kaufen die mich beschützen oder die mein aussehen anpassen.     |
+| 8  |           Muss      |   Funktional   |   Als Spieler möchte ich Münzen Sammeln um diese im shop auszugeben, damit meine Figur besser aussieht.        |
+| 9  |           Kann      |   Funktional   |   Als Spieler möchte ich Powerups haben um mich kurzeitig zu retten, damit ich nicht so schnell verliere.      |
+| 10  |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie mein laufscore ist, damit ich sehe ob ich besser werde. |     
+| 11 |           Muss      |   Funktional   |   Als Spieler möchte ich wissen wie viele Münzen ich besitze, damit ich weiss wie viele ich ausgeben kann. |
  
 
 ### 1.3 Testfälle
@@ -44,19 +45,20 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 2.1  | Titlescreen ist zu sehen | Singleplayer |  Singleplayer modus wird gestartet |
 | 2.2  | Titlescreen ist zu sehen | Multiplayer |  Multiplayer modus wird gestartet |
 | 2.3  | Titlescreen ist zu sehen | Shop |  Shop wird geöffnet |
-| 3.1  | Applikation ist gestartet | - |  lustige Musik |
-| 3.2  | Singleplayer / Multiplayer | - |  Andere lustige Musik |
-| 4.1  | Singleplayer | Falsches movement |  Todesscreen wird angezeigt |
-| 4.2  | Multiplayer | Falsches movement |  Bei Spieler 1 oder 2 wird der Todesscreen angezeigt, einen Score und wer gewonnen hat |
-| 5.1  | Multiplayer | P1 steuert mit W,A,S,D P2 mit UP,DOWN,LEFT,RIGHT |  2Spieler auf dem Spielfeld | 
-| 6.1  | Shop  | Mit genügeng Geld auf Item1 gedrückt |  Sie haben erfolgreich Item1 Gekauft. | 
-| 6.2  | Shop  | Mit nicht genügengem Geld auf Item1 gedrückt |  Sie sind zu arm. | 
-| 6.3  | Shop  | Mit genügend Geld auf Amongus gedrückt | Sie haben erfolgreich den Amongus Skin Gekauft und ausgerüstet. | 
-| 6.4  | Shop  | Mit nicht genügengem Geld auf Amongus gedrückt | Sie sind zu arm. |
-| 7.1  | Singleplayer / Multiplayer  | Bewegung um zu den Münzen zu gelangen | +1 Coin | 
-| 8.1  | Singleplayer / Multiplayer und ein rettungs Item gekauft | Bewegung in ein obstical | Du wurdest wiederbelebt | 
-| 9.1  | Singleplayer / Multiplayer | - | Oben links laufscore | 
-| 10.1 | Applikation ist gestartet | - | Oben rechts die anzahl Münzen | 
+| 3.1  | 
+| 4.1  | Applikation ist gestartet | - |  lustige Musik |
+| 4.2  | Singleplayer / Multiplayer | - |  Andere lustige Musik |
+| 5.1  | Singleplayer | Falsches movement |  Todesscreen wird angezeigt |
+| 5.2  | Multiplayer | Falsches movement |  Bei Spieler 1 oder 2 wird der Todesscreen angezeigt, einen Score und wer gewonnen hat |
+| 6.1  | Multiplayer | P1 steuert mit W,A,S,D P2 mit UP,DOWN,LEFT,RIGHT |  2Spieler auf dem Spielfeld | 
+| 7.1  | Shop  | Mit genügeng Geld auf Item1 gedrückt |  Sie haben erfolgreich Item1 Gekauft. | 
+| 7.2  | Shop  | Mit nicht genügengem Geld auf Item1 gedrückt |  Sie sind zu arm. | 
+| 7.3  | Shop  | Mit genügend Geld auf Amongus gedrückt | Sie haben erfolgreich den Amongus Skin Gekauft und ausgerüstet. | 
+| 7.4  | Shop  | Mit nicht genügengem Geld auf Amongus gedrückt | Sie sind zu arm. |
+| 8.1  | Singleplayer / Multiplayer  | Bewegung um zu den Münzen zu gelangen | +1 Coin | 
+| 9.1  | Singleplayer / Multiplayer und ein rettungs Item gekauft | Bewegung in ein obstical | Du wurdest wiederbelebt | 
+| 10.1  | Singleplayer / Multiplayer | - | Oben links laufscore | 
+| 11.1 | Applikation ist gestartet | - | Oben rechts die anzahl Münzen | 
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
