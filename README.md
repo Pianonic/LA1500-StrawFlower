@@ -74,37 +74,37 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 
 | AP-№ | Frist | Zuständig |                                Beschreibung                                | geplante Zeit |
 |:----:|:-----:|:---------:|:--------------------------------------------------------------------------:|:-------------:|
-| 1.A  |       |           | Titlescreen erstellen                                                      | 60 min        |
-| 2.A  |       |           | Menu Button für Singleplayer                                               | 30 min        |
-| 2.B  |       |           | Menu Button für Multiplayer                                                | 20 min        |
-| 2.C  |       |           | Menu Button für Shop                                                       | 20 min        |
-| 3.A  |       |           | Spielerbewegung                                                            | 45 min        |
-| 3.B  |       |           | Objekte werden generiert                                                   | 45 min        |
-| 3.C  |       |           | Objekte kommen auf den Spieler zu                                          | 60 min        |
-| 3.D  |       |           | Mit der Zeit werden die Objekte immer schneller                            | 45 min        |
-| 3.E  |       |           | Objekte werden wieder entfernt                                             | 30 min        |
-|  4.A |       |           |  Musikausgabe im Titlescreen                                               | 30 min       |
-|  4.B |       |           |  Musik im Spiel abspielen                                                  | 30 min       |
-| 5.A  |       |           | Deathscreen erstellen                                                      | 30 min        |
-| 5.B  |       |           | Deathscreen erscheint beim Spielertod                                      | 45 min        |
-| 6.A  |       |           | Eine 2. Laufbahn erscheint                                                 | 60 min        |
-| 6.B  |       |           | Ein 2. Spieler erscheint                                                   | 60 min        |
-| 6.C  |       |           | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |
-| 7.A  |       |           | Shop Interface erstellen                                                   | 60 min        |
-| 7.B  |       |           | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |
-| 7.C  |       |           | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |
-| 7.D  |       |           | Wenn ein Gegenstand gekauft wird, kann dieser nicht nochmal gekauft werden | 60 min        |
-|  7.E |       |           |  Kosmetische Gegenstände werden auf den Spieler angewendet                 | 60 min       |
-|  8.A |       |           |  Es erscheinen Münzen zufällig im Spielfeld                                | 45 min       |
-|  8.B |       |           |  Die Anzahl der eingesammelten Münzen wird gespeichert                     | 45 min       |
-|  8.C |       |           |  Münzen können im Shop ausgegeben werden                                   | 45 min       |
-|  9.A |       |           |  Die gekauften Gegenstände erhalten ihre Funktion                          | 60 min       |
-| 10.A |       |           | Mit der vergangenen Zeit zählt ein Score immer weiter nach oben            | 45 min        |
-| 10.B |       |           | Beim Tod soll der Score angezeigt werden                                   | 30 min        |
-| 10.C |       |           | Der Highscore soll gespeichert werden                                      | 45 min        |
-| 11.A |       |           | Die Anzahl der Münzen soll während dem Spiel angezeigt werden              | 30 min        |
+| 1.A  | 14.3  |           | Titlescreen erstellen                                                      | 60 min        |
+| 2.A  | 14.3  |           | Menu Button für Singleplayer                                               | 30 min        |
+| 2.B  | 14.3  |           | Menu Button für Multiplayer                                                | 20 min        |
+| 2.C  | 14.3  |           | Menu Button für Shop                                                       | 20 min        |
+| 3.A  | 7.3   |           | Spielerbewegung                                                            | 45 min        |
+| 3.B  | 7.3   |           | Objekte werden generiert                                                   | 45 min        |
+| 3.C  | 7.3   |           | Objekte kommen auf den Spieler zu                                          | 60 min        |
+| 3.D  | 7.3   |           | Mit der Zeit werden die Objekte immer schneller                            | 45 min        |
+| 3.E  | 7.3   |           | Objekte werden wieder entfernt                                             | 30 min        |
+|  4.A | 21.3  |           |  Musikausgabe im Titlescreen                                               | 30 min       |
+|  4.B | 21.3  |           |  Musik im Spiel abspielen                                                  | 30 min       |
+| 5.A  | 14.3  |           | Deathscreen erstellen                                                      | 30 min        |
+| 5.B  | 14.3  |           | Deathscreen erscheint beim Spielertod                                      | 45 min        |
+| 6.A  | 21.3  |           | Eine 2. Laufbahn erscheint                                                 | 60 min        |
+| 6.B  | 21.3  |           | Ein 2. Spieler erscheint                                                   | 60 min        |
+| 6.C  | 21.3  |           | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |
+| 7.A  | 21.3  |           | Shop Interface erstellen                                                   | 60 min        |
+| 7.B  | 21.3  |           | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |
+| 7.C  | 21.3  |           | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |
+| 7.D  | 21.3  |           | Wenn ein Gegenstand gekauft wird, kann dieser nicht nochmal gekauft werden | 60 min        |
+|  7.E | 21.3  |           |  Kosmetische Gegenstände werden auf den Spieler angewendet                 | 60 min       |
+|  8.A | 21.3  |           |  Es erscheinen Münzen zufällig im Spielfeld                                | 45 min       |
+|  8.B | 21.3  |           |  Die Anzahl der eingesammelten Münzen wird gespeichert                     | 45 min       |
+|  8.C | 21.3  |           |  Münzen können im Shop ausgegeben werden                                   | 45 min       |
+|  9.A | 21.3  |           |  Die gekauften Gegenstände erhalten ihre Funktion                          | 60 min       |
+| 10.A | 21.3  |           | Mit der vergangenen Zeit zählt ein Score immer weiter nach oben            | 45 min        |
+| 10.B | 21.3  |           | Beim Tod soll der Score angezeigt werden                                   | 30 min        |
+| 10.C | 21.3  |           | Der Highscore soll gespeichert werden                                      | 45 min        |
+| 11.A | 21.3  |           | Die Anzahl der Münzen soll während dem Spiel angezeigt werden              | 30 min        |
 
-Total: 
+Total: 20h 40min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
