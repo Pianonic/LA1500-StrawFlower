@@ -72,15 +72,20 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           | Titlescreen erstellen | 45 min |
-| 2.A  |       |           | Figur Bewegung     |  45 min            |
-| 2.B  |       |           | Figur stirbt   | 30min              |
-| 2.C  |       |           | Shop neues Aussehen kaufen|  45min   |
-| 2.D  |       |           | Shop neue Items kaufen| 45 min|
-| 3.C  |       |           | Musik abspielen| 20 min|
-|      |       |            |                |       |
+| AP-№ | Frist | Zuständig |              Beschreibung             | geplante Zeit |
+|:----:|:-----:|:---------:|:-------------------------------------:|:-------------:|
+| 1.A  |       |           | Titlescreen erstellen                 | 60 min        |
+| 2.A  |       |           | Menu Button für Singleplayer          | 30 min        |
+| 2.B  |       |           | Menu Button für Multiplayer           | 20 min        |
+| 2.C  |       |           | Menu Button für Shop                  | 20 min        |
+| 3.A  |       |           | Spielerbewegung                       | 45 min        |
+| 3.B  |       |           | Objekte werden generiert              | 45 min        |
+| 3.C  |       |           | Objekte kommen auf den Spieler zu     | 60 min        |
+| 3.D  |       |           | Objekte werden wieder entfernt        | 30 min        |
+|  4.A |       |           |  Musikausgabe im Titlescreen          |  30 min       |
+|  4.B |       |           |  Musik im Spiel abspielen             |  30 min       |
+| 5.A  |       |           | Deathscreen erstellen                 | 30 min        |
+| 5.B  |       |           | Deathscreen erscheint beim Spielertod | 45 min        |
 
 Total: 
 
