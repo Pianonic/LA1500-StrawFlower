@@ -8,9 +8,9 @@ Strawflowers: Erismann, Müller, Greub, Lutziger, Bytyqi
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|  28.2     | 0.0.1   | - Dokumentation mit User-Stories, Testfällen und Arbeitspaketen wurde fertig erstellt. |
+|  7.3  | 0.0.2     |   - Spieler kann sich nach links und recht bewegen, Objekte kommen auf den Spieler zu, Spiel wird mit der Zeit schneller. |
+
 
 ## 1 Informieren
 
