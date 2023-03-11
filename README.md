@@ -40,7 +40,7 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-|:---:|:---:|:---:|:---:|
+|---|---|---|---|
 | 1.1 | Applikation ist gestartet | - | Titlescreen |
 | 2.1 | Titlescreen ist zu sehen | Singleplayer | Singleplayer modus wird gestartet |
 | 2.2 | Titlescreen ist zu sehen | Multiplayer | Multiplayer modus wird gestartet |
