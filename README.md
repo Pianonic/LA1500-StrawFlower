@@ -40,26 +40,26 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  | Applikation ist gestartet  | -  | Titlescreen |
-| 2.1  | Titlescreen ist zu sehen | Singleplayer |  Singleplayer modus wird gestartet |
-| 2.2  | Titlescreen ist zu sehen | Multiplayer |  Multiplayer modus wird gestartet |
-| 2.3  | Titlescreen ist zu sehen | Shop |  Shop wird geöffnet |
-| 3.1  | Singeplayer/Multiplayer ausgewählt | Spieler drückt A | Figur bewegt sich nach links |
-| 3.1  | Singeplayer/Multiplayer ausgewählt | Spieler drückt D | Figur bewegt sich nach rechts |
-| 4.1  | Applikation ist gestartet | - |  lustige Musik |
-| 4.2  | Singleplayer / Multiplayer | - |  Andere lustige Musik |
-| 5.1  | Singleplayer | Falsches movement |  Todesscreen wird angezeigt |
-| 5.2  | Multiplayer | Falsches movement |  Bei Spieler 1 oder 2 wird der Todesscreen angezeigt, einen Score und wer gewonnen hat |
-| 6.1  | Multiplayer | P1 steuert mit W,A,S,D P2 mit UP,DOWN,LEFT,RIGHT |  2Spieler auf dem Spielfeld | 
-| 7.1  | Shop  | Mit genügeng Geld auf Item1 gedrückt |  Sie haben erfolgreich Item1 Gekauft. | 
-| 7.2  | Shop  | Mit nicht genügengem Geld auf Item1 gedrückt |  Sie sind zu arm. | 
-| 7.3  | Shop  | Mit genügend Geld auf Amongus gedrückt | Sie haben erfolgreich den Amongus Skin Gekauft und ausgerüstet. | 
-| 7.4  | Shop  | Mit nicht genügengem Geld auf Amongus gedrückt | Sie sind zu arm. |
-| 8.1  | Singleplayer / Multiplayer  | Bewegung um zu den Münzen zu gelangen | +1 Coin | 
-| 9.1  | Singleplayer / Multiplayer und ein rettungs Item gekauft | Bewegung in ein obstical | Du wurdest wiederbelebt | 
-| 10.1  | Singleplayer / Multiplayer | - | Oben links laufscore | 
-| 11.1 | Applikation ist gestartet | - | Oben rechts die anzahl Münzen | 
+|:---:|:---:|:---:|:---:|
+| 1.1 | Applikation ist gestartet | - | Titlescreen |
+| 2.1 | Titlescreen ist zu sehen | Singleplayer | Singleplayer modus wird gestartet |
+| 2.2 | Titlescreen ist zu sehen | Multiplayer | Multiplayer modus wird gestartet |
+| 2.3 | Titlescreen ist zu sehen | Shop | Shop wird geöffnet |
+| 3.1 | Singeplayer/Multiplayer ausgewählt | Spieler drückt A | Figur bewegt sich nach links |
+| 3.1 | Singeplayer/Multiplayer ausgewählt | Spieler drückt D | Figur bewegt sich nach rechts |
+| 4.1 | Applikation ist gestartet | - | lustige Musik |
+| 4.2 | Singleplayer / Multiplayer | - | Andere lustige Musik |
+| 5.1 | Singleplayer | Falsches movement | Todesscreen wird angezeigt |
+| 5.2 | Multiplayer | Falsches movement | Bei Spieler 1 oder 2 wird der Todesscreen angezeigt, einen Score und wer gewonnen hat |
+| 6.1 | Multiplayer | P1 steuert mit W,A,S,D P2 mit UP,DOWN,LEFT,RIGHT | 2Spieler auf dem Spielfeld |
+| 7.1 | Shop | Mit genügeng Geld auf Item1 gedrückt | Sie haben erfolgreich Item1 Gekauft. |
+| 7.2 | Shop | Mit nicht genügengem Geld auf Item1 gedrückt | Sie sind zu arm. |
+| 7.3 | Shop | Mit genügend Geld auf Amongus gedrückt | Sie haben erfolgreich den Amongus Skin Gekauft und ausgerüstet. |
+| 7.4 | Shop | Mit nicht genügengem Geld auf Amongus gedrückt | Sie sind zu arm. |
+| 8.1 | Singleplayer / Multiplayer | Bewegung um zu den Münzen zu gelangen | +1 Coin |
+| 9.1 | Singleplayer / Multiplayer und ein rettungs Item gekauft | Bewegung in ein obstical | Du wurdest wiederbelebt |
+| 10.1 | Singleplayer / Multiplayer | - | Oben links laufscore |
+| 11.1 | Applikation ist gestartet | - | Oben rechts die anzahl Münzen |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
