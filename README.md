@@ -116,10 +116,37 @@ Total: 20h 40min
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP-№ | Datum | Zuständig |                                Beschreibung                                | geplante Zeit | tatsächliche Zeit |
+|:----:|:-----:|:---------:|:--------------------------------------------------------------------------:|:-------------:|-------------------|
+| 1.A  | 14.3  | Erismann  | Titlescreen erstellen                                                      | 60 min        | 60 min            |
+| 2.A  | 14.3  | Erismann  | Menu Button für Singleplayer                                               | 30 min        | 10 min            |
+| 2.B  | 14.3  | Erismann  | Menu Button für Multiplayer                                                | 20 min        | 10 min            |
+| 2.C  | 14.3  | Erismann  | Menu Button für Shop                                                       | 20 min        | 10 min            |
+| 3.A  | 7.3   | Erismann  | Spielerbewegung                                                            | 45 min        | 180 min           |
+| 3.B  | 7.3   | Erismann  | Objekte werden generiert                                                   | 45 min        | 60 min            |
+| 3.C  | 7.3   | Erismann  | Objekte kommen auf den Spieler zu                                          | 60 min        | 180 min           |
+| 3.D  | 7.3   | Müller    | Mit der Zeit werden die Objekte immer schneller                            | 45 min        | 180 min           |
+| 3.E  | 7.3   | Müller    | Objekte werden wieder entfernt                                             | 30 min        |  10 min           |
+| 4.A  |       |           | Musikausgabe im Titlescreen                                                | 30 min        |                   |
+| 4.B  |       |           | Musik im Spiel abspielen                                                   | 30 min        |                   |
+| 5.A  | 14.3  | Greub     | Deathscreen erstellen                                                      | 30 min        | 180 min           |
+| 5.B  | 14.3  | Greub     | Deathscreen erscheint beim Spielertod                                      | 45 min        | 60 min            |
+| 6.A  |       |           | Eine 2. Laufbahn erscheint                                                 | 60 min        |                   |
+| 6.B  |       |           | Ein 2. Spieler erscheint                                                   | 60 min        |                   |
+| 6.C  |       |           | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |                   |
+| 7.A  |       |           | Shop Interface erstellen                                                   | 60 min        |                   |
+| 7.B  |       |           | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |                   |
+| 7.C  |       |           | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |                   |
+| 7.D  |       |           | Wenn ein Gegenstand gekauft wird, kann dieser nicht nochmal gekauft werden | 60 min        |                   |
+| 7.E  |       |           | Kosmetische Gegenstände werden auf den Spieler angewendet                  | 60 min        |                   |
+| 8.A  |       |           | Es erscheinen Münzen zufällig im Spielfeld                                 | 45 min        |                   |
+| 8.B  |       |           | Die Anzahl der eingesammelten Münzen wird gespeichert                      | 45 min        |                   |
+| 8.C  |       |           | Münzen können im Shop ausgegeben werden                                    | 45 min        |                   |
+| 9.A  |       |           | Die gekauften Gegenstände erhalten ihre Funktion                           | 60 min        |                   |
+| 10.A | 21.3  | Lutziger  | Mit der vergangenen Zeit zählt ein Score immer weiter nach oben            | 45 min        | 180 min           |
+| 10.B |       |           | Beim Tod soll der Score angezeigt werden                                   | 30 min        |                   |
+| 10.C |       |           | Der Highscore soll gespeichert werden                                      | 45 min        |                   |
+| 11.A |       |           | Die Anzahl der Münzen soll während dem Spiel angezeigt werden              | 30 min        |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
