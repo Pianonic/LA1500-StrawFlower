@@ -133,9 +133,10 @@ Total: 20h 40min
 | 4.B  |       |Müller           | Musik im Spiel abspielen                                                   | 30 min        |                   |
 | 5.A  | 14.3  | Greub     | Deathscreen erstellen                                                      | 30 min        | 180 min           |
 | 5.B  | 14.3  | Greub     | Deathscreen erscheint beim Spielertod                                      | 45 min        | 60 min            |
-| 6.A  |       | Greub     | Eine 2. Laufbahn erscheint                                                 | 60 min        |                   |
-| 6.B  |       | Greub     | Ein 2. Spieler erscheint                                                   | 60 min        |                   |
-| 6.C  |       | Greub     | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |                   |
+| 6.A  |       | Greub     | Eine 2. Laufbahn erscheint                                                 | 60 min        | 45 min                  |
+| 6.B  |       | Greub     | Ein 2. Spieler erscheint                                                   | 60 min        | 45 min                  |
+| 6.C  |       | Greub     | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        | 30 min                  |
+| 6.D  |       | Greub     | Objekte kommen auf der 2. Laufbahn auf den Spieler zu                      | 60 min        |                   |
 | 7.A  |       |           | Shop Interface erstellen                                                   | 60 min        |                   |
 | 7.B  |       |           | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |                   |
 | 7.C  |       |           | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |                   |
