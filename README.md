@@ -89,7 +89,7 @@ Wir machen ein jump and run Spiel bei dem man einfach nur laufen kann und nicht 
 | 5.B  | 14.3  | Greub     | Deathscreen erscheint beim Spielertod                                      | 45 min        |
 | 6.A  | 21.3  | Greub     | Eine 2. Laufbahn erscheint                                                 | 60 min        |
 | 6.B  | 21.3  | Greub     | Ein 2. Spieler erscheint                                                   | 60 min        |
-| 6.C  | 21.3  | Müller    | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |
+| 6.C  | 21.3  | Greub    | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |
 | 7.A  | 21.3  | Greub     | Shop Interface erstellen                                                   | 60 min        |
 | 7.B  | 21.3  | Erismann  | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |
 | 7.C  | 21.3  | Erismann  | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |
@@ -131,9 +131,9 @@ Total: 20h 40min
 | 4.B  |       |           | Musik im Spiel abspielen                                                   | 30 min        |                   |
 | 5.A  | 14.3  | Greub     | Deathscreen erstellen                                                      | 30 min        | 180 min           |
 | 5.B  | 14.3  | Greub     | Deathscreen erscheint beim Spielertod                                      | 45 min        | 60 min            |
-| 6.A  |       |           | Eine 2. Laufbahn erscheint                                                 | 60 min        |                   |
-| 6.B  |       |           | Ein 2. Spieler erscheint                                                   | 60 min        |                   |
-| 6.C  |       |           | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |                   |
+| 6.A  |       | Greub     | Eine 2. Laufbahn erscheint                                                 | 60 min        |                   |
+| 6.B  |       | Greub     | Ein 2. Spieler erscheint                                                   | 60 min        |                   |
+| 6.C  |       | Greub     | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        |                   |
 | 7.A  |       |           | Shop Interface erstellen                                                   | 60 min        |                   |
 | 7.B  |       |           | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |                   |
 | 7.C  |       |           | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |                   |
