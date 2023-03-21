@@ -116,17 +116,17 @@ Total: 20h 40min
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig |                                Beschreibung                                | geplante Zeit | tatsächliche Zeit |
-|:----:|:-----:|:---------:|:--------------------------------------------------------------------------:|:-------------:|-------------------|
-| 1.A  | 14.3  | Erismann  | Titlescreen erstellen                                                      | 60 min        | 60 min            |
-| 2.A  | 14.3  | Erismann  | Menu Button für Singleplayer                                               | 30 min        | 10 min            |
-| 2.B  | 14.3  | Erismann  | Menu Button für Multiplayer                                                | 20 min        | 10 min            |
-| 2.C  | 14.3  | Erismann  | Menu Button für Shop                                                       | 20 min        | 10 min            |
+| AP-№ | Datum | Zuständig | Beschreibung                                                               | geplante Zeit | tatsächliche Zeit |
+|------|-------|-----------|----------------------------------------------------------------------------|---------------|:-----------------:|
+| 1.A  | 14.3  | Bytyqi    | Titlescreen erstellen                                                      | 60 min        | 60 min            |
+| 2.A  | 14.3  | Bytyqi    | Menu Button für Singleplayer                                               | 30 min        | 10 min            |
+| 2.B  | 14.3  | Bytyqi    | Menu Button für Multiplayer                                                | 20 min        | 10 min            |
+| 2.C  | 14.3  | Bytyqi    | Menu Button für Shop                                                       | 20 min        | 10 min            |
 | 3.A  | 7.3   | Erismann  | Spielerbewegung                                                            | 45 min        | 180 min           |
 | 3.B  | 7.3   | Erismann  | Objekte werden generiert                                                   | 45 min        | 60 min            |
 | 3.C  | 7.3   | Erismann  | Objekte kommen auf den Spieler zu                                          | 60 min        | 180 min           |
 | 3.D  | 7.3   | Müller    | Mit der Zeit werden die Objekte immer schneller                            | 45 min        | 180 min           |
-| 3.E  | 7.3   | Müller    | Objekte werden wieder entfernt                                             | 30 min        |  10 min           |
+| 3.E  | 7.3   | Müller    | Objekte werden wieder entfernt                                             | 30 min        | 10 min            |
 | 4.A  |       |           | Musikausgabe im Titlescreen                                                | 30 min        |                   |
 | 4.B  |       |           | Musik im Spiel abspielen                                                   | 30 min        |                   |
 | 5.A  | 14.3  | Greub     | Deathscreen erstellen                                                      | 30 min        | 180 min           |
