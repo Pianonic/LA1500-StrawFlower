@@ -129,14 +129,14 @@ Total: 20h 40min
 | 3.C  | 7.3   | Erismann  | Objekte kommen auf den Spieler zu                                          | 60 min        | 180 min           |
 | 3.D  | 7.3   | Müller    | Mit der Zeit werden die Objekte immer schneller                            | 45 min        | 180 min           |
 | 3.E  | 7.3   | Müller    | Objekte werden wieder entfernt                                             | 30 min        | 10 min            |
-| 4.A  |       |           | Musikausgabe im Titlescreen                                                | 30 min        |                   |
-| 4.B  |       |Müller           | Musik im Spiel abspielen                                                   | 30 min        |                   |
+| 4.A  | 14.3  |           | Musikausgabe im Titlescreen                                                | 30 min        | 60 min            |
+| 4.B  | 14.3  | Müller    | Musik im Spiel abspielen                                                   | 30 min        | 60 min            |
 | 5.A  | 14.3  | Greub     | Deathscreen erstellen                                                      | 30 min        | 180 min           |
 | 5.B  | 14.3  | Greub     | Deathscreen erscheint beim Spielertod                                      | 45 min        | 60 min            |
-| 6.A  |       | Greub     | Eine 2. Laufbahn erscheint                                                 | 60 min        | 45 min                  |
-| 6.B  |       | Greub     | Ein 2. Spieler erscheint                                                   | 60 min        | 45 min                  |
-| 6.C  |       | Greub     | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        | 30 min                  |
-| 6.D  |       | Greub     | Objekte kommen auf der 2. Laufbahn auf den Spieler zu                      | 60 min        |                   |
+| 6.A  | 14.3  | Greub     | Eine 2. Laufbahn erscheint                                                 | 60 min        | 45 min            |
+| 6.B  | 14.3  | Greub     | Ein 2. Spieler erscheint                                                   | 60 min        | 45 min            |
+| 6.C  | 14.3  | Greub     | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        | 30 min            |
+| 6.D  |       |           | Objekte kommen auf der 2. Laufbahn auf den Spieler zu                      | 60 min        |                   |
 | 7.A  |       |           | Shop Interface erstellen                                                   | 60 min        |                   |
 | 7.B  |       |           | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |                   |
 | 7.C  |       |           | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |                   |
