@@ -128,7 +128,7 @@ Total: 20h 40min
 | 3.D  | 7.3   | Müller    | Mit der Zeit werden die Objekte immer schneller                            | 45 min        | 180 min           |
 | 3.E  | 7.3   | Müller    | Objekte werden wieder entfernt                                             | 30 min        | 10 min            |
 | 4.A  |       |           | Musikausgabe im Titlescreen                                                | 30 min        |                   |
-| 4.B  |       |           | Musik im Spiel abspielen                                                   | 30 min        |                   |
+| 4.B  |       |Müller           | Musik im Spiel abspielen                                                   | 30 min        |                   |
 | 5.A  | 14.3  | Greub     | Deathscreen erstellen                                                      | 30 min        | 180 min           |
 | 5.B  | 14.3  | Greub     | Deathscreen erscheint beim Spielertod                                      | 45 min        | 60 min            |
 | 6.A  |       | Greub     | Eine 2. Laufbahn erscheint                                                 | 60 min        |                   |
