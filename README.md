@@ -10,6 +10,8 @@ Strawflowers: Erismann, Müller, Greub, Lutziger, Bytyqi
 | ----- | ------- | ------------------------------------------------------------ |
 |  28.2     | 0.0.1   | - Dokumentation mit User-Stories, Testfällen und Arbeitspaketen wurde fertig erstellt. |
 |  7.3  | 0.0.2     |   - Spieler kann sich nach links und recht bewegen, Objekte kommen auf den Spieler zu, Spiel wird mit der Zeit schneller. |
+|  14.3  | 0.0.3     |   - Deathscreen und Titlescreen erstellt, Timer erstellt, Spiel hat nun vernünftige Texturen |
+|  21.3  | 0.0.4     |   - Deathscreen und Titlescreen funktionieren nun korrekt, Timer verbessert |
 
 
 ## 1 Informieren
