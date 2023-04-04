@@ -168,11 +168,15 @@ Total: 20h 40min
 |4.2    | 4.4      |gleiche Musik wird abgespielt      | Müller         |
 | 5.1     |4.4       |Todesscreen wird angezeigt  |Müller          |
 |5.2      | 4.4      |Todesscreen wird angezeigt |Müller          |
-|      | 4.4      |                                   |          |
-|      | 4.4      |                                   |          |
-|      | 4.4      |                                   |          |
-|      | 4.4      |                                   |          |
-|      | 4.4      |                                   |          |
+|6.1     | 4.4      |                                   |          |
+|7.1      | 4.4      |keine Reaktion   | Müller    |
+|7.2      | 4.4      |                                   | Müller         |
+| 7.3     | 4.4      |                                   | Müller         |
+| 7.4     | 4.4      |                                   | Müller         |
+|8.1       | 4.4      |                                   |         |
+| 9.1      | 4.4      |                                 |         |
+| 10.1    | 4.4       |                                   |        |
+| 11.1      | 4.4     |                                   |            |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
