@@ -42,7 +42,7 @@ GameObject obstical = new GameObject("Obstical");
                 cube3.transform.localScale = new Vector3(0f, 0f, 0f);
             }
 ```
-*Dieser Code beinhaltet die oben beschriebenen Schritte zur Generierung un zufälligen Auswahl der Objekte*
+*Dieser Code beinhaltet die oben beschriebenen Schritte zur Generierung un zufälligen Auswahl der Objekte.*
 
 
 Danach müssen die Würfel noch in die *Parents* eingefügt werden und an der richtigen Position platziert werden.
