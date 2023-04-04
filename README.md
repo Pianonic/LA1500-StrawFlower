@@ -163,16 +163,16 @@ Total: 20h 40min
 | 2.1  | 21.3  | Singleplayer modus wird gestartet | Erismann |
 | 2.2  | 21.3  | Multiplayer modus wird gestartet  | Erismann |
 | 3.1  | 21.3  | Figur bewegt sich nach links      | Erismann |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
-|      |       |                                   |          |
+|      | 4.4      |                                   |          |
+|      | 4.4      |                                   |          |
+|      | 4.4      |                                   |          |
+|      |4.4       |                                   |          |
+|      | 4.4      |                                   |          |
+|      | 4.4      |                                   |          |
+|      | 4.4      |                                   |          |
+|      | 4.4      |                                   |          |
+|      | 4.4      |                                   |          |
+|      | 4.4      |                                   |          |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
