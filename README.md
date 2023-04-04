@@ -163,11 +163,11 @@ Total: 20h 40min
 | 2.1  | 21.3  | Singleplayer modus wird gestartet | Erismann |
 | 2.2  | 21.3  | Multiplayer modus wird gestartet  | Erismann |
 | 3.1  | 21.3  | Figur bewegt sich nach links      | Erismann |
-|      | 4.4      |                                   |          |
-|      | 4.4      |                                   |          |
-|      | 4.4      |                                   |          |
-|      |4.4       |                                   |          |
-|      | 4.4      |                                   |          |
+| 3.2     | 4.4      |  Figur bewegt sich nach rechts   | Müller         |
+|4.1   | 4.4      | Musik wird abgespielt  |  Müller        |
+|4.2    | 4.4      |gleiche Musik wird abgespielt      | Müller         |
+| 5.1     |4.4       |Todesscreen wird angezeigt  |Müller          |
+|5.2      | 4.4      |Todesscreen wird angezeigt |Müller          |
 |      | 4.4      |                                   |          |
 |      | 4.4      |                                   |          |
 |      | 4.4      |                                   |          |
