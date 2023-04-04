@@ -184,8 +184,13 @@ Total: 20h 40min
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    |Applikation gestartet| | Home screen des Spieles| Start des Singleplayer spieles|
+| II   | Home screen  |  Singleplayer|Start des Singplayer spieles | Start des Singplayer spieles|
+| III  | Home screen  |  Multiplayer |Start des Multiplayer spieles | Start des Multiplayer spieles|
+| IV   | Home screen  |  Shop | öffnen des Shops | Keine ausgabe |
+| V    | Singleplayer/Multiplayer  |  W,d/J,L | Das bewegen des Spieler/s | Das bewegen des Spieler/s |
+| VI   | Singleplayer/Multiplayer Death screen  |  Respawn | Starten eines neues  Spieles | Starten eines neues  Spieles |
+| VII  | Singleplayer/Multiplayer Death screen  |  Main Menu | Main Menu screen | Main Menu screen |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
