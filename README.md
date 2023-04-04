@@ -163,20 +163,20 @@ Total: 20h 40min
 | 2.1  | 21.3  | Singleplayer modus wird gestartet | Erismann |
 | 2.2  | 21.3  | Multiplayer modus wird gestartet  | Erismann |
 | 3.1  | 21.3  | Figur bewegt sich nach links      | Erismann |
-| 3.2     | 4.4      |  Figur bewegt sich nach rechts   | Müller         |
-|4.1   | 4.4      | Musik wird abgespielt  |  Müller        |
-|4.2    | 4.4      |gleiche Musik wird abgespielt      | Müller         |
-| 5.1     |4.4       |Todesscreen wird angezeigt  |Müller          |
-|5.2      | 4.4      |Todesscreen wird angezeigt |Müller          |
-|6.1     | 4.4      | P1 mit A und D, P2 mit J und L    | Müller         |
-|7.1      | 4.4      |keine Reaktion   | Müller    |
-|7.2      | 4.4      | funktioniert nicht    | Müller         |
-| 7.3     | 4.4      | funktioniert nicht                                  | Müller         |
-| 7.4     | 4.4      | funktioniert nicht                                  | Müller         |
-|8.1       | 4.4      | funktioniert nicht                                  |Müller         |
-| 9.1      | 4.4      | funktioniert nicht                                |Müller         |
-| 10.1    | 4.4       | Score stoppt nicht                         | Müller       |
-| 11.1      | 4.4     | Spiel startet                      |Müller      |
+| 3.2  | 4.4   | Figur bewegt sich nach rechts     | Müller   |
+| 4.1  | 4.4   | Musik wird abgespielt             | Müller   |
+| 4.2  | 4.4   | gleiche Musik wird abgespielt     | Müller   |
+| 5.1  | 4.4   | Todesscreen wird angezeigt        | Müller   |
+| 5.2  | 4.4   | Todesscreen wird angezeigt        | Müller   |
+| 6.1  | 4.4   | P1 mit A und D, P2 mit J und L    | Müller   |
+| 7.1  | 4.4   | keine Reaktion                    | Müller   |
+| 7.2  | 4.4   | funktioniert nicht                | Müller   |
+| 7.3  | 4.4   | funktioniert nicht                | Müller   |
+| 7.4  | 4.4   | funktioniert nicht                | Müller   |
+| 8.1  | 4.4   | funktioniert nicht                | Müller   |
+| 9.1  | 4.4   | funktioniert nicht                | Müller   |
+| 10.1 | 4.4   | Score stoppt nicht                | Müller   |
+| 11.1 | 4.4   | Spiel startet                     | Müller   |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
