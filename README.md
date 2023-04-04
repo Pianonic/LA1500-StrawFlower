@@ -12,7 +12,7 @@ Strawflowers: Erismann, Müller, Greub, Lutziger, Bytyqi
 |  7.3  | 0.0.2     |   - Spieler kann sich nach links und recht bewegen, Objekte kommen auf den Spieler zu, Spiel wird mit der Zeit schneller. |
 |  14.3  | 0.0.3     |   - Deathscreen und Titlescreen erstellt, Timer erstellt, Spiel hat nun vernünftige Texturen |
 |  21.3  | 0.0.4     |   - Deathscreen und Titlescreen funktionieren nun korrekt, Timer verbessert, Multiplayer Modus erstellt |
-
+| 4.4    | 1.0.0     | 
 
 ## 1 Informieren
 
@@ -170,12 +170,12 @@ Total: 20h 40min
 |5.2      | 4.4      |Todesscreen wird angezeigt |Müller          |
 |6.1     | 4.4      | P1 mit A und D, P2 mit J und L    | Müller         |
 |7.1      | 4.4      |keine Reaktion   | Müller    |
-|7.2      | 4.4      |                                   | Müller         |
-| 7.3     | 4.4      |                                   | Müller         |
-| 7.4     | 4.4      |                                   | Müller         |
-|8.1       | 4.4      |                                   |Müller         |
-| 9.1      | 4.4      |                                 |Müller         |
-| 10.1    | 4.4       |                                   | Müller       |
+|7.2      | 4.4      | funktioniert nicht    | Müller         |
+| 7.3     | 4.4      | funktioniert nicht                                  | Müller         |
+| 7.4     | 4.4      | funktioniert nicht                                  | Müller         |
+|8.1       | 4.4      | funktioniert nicht                                  |Müller         |
+| 9.1      | 4.4      | funktioniert nicht                                |Müller         |
+| 10.1    | 4.4       | Score stoppt nicht                         | Müller       |
 | 11.1      | 4.4     | Spiel startet                      |Müller      |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
