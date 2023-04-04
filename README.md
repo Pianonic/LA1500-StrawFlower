@@ -8,7 +8,7 @@ Strawflowers: Erismann, Müller, Greub, Lutziger, Bytyqi
 |  7.3  | 0.0.2     |   - Spieler kann sich nach links und recht bewegen, Objekte kommen auf den Spieler zu, Spiel wird mit der Zeit schneller. |
 |  14.3  | 0.0.3     |   - Deathscreen und Titlescreen erstellt, Timer erstellt, Spiel hat nun vernünftige Texturen |
 |  21.3  | 0.0.4     |   - Deathscreen und Titlescreen funktionieren nun korrekt, Timer verbessert, Multiplayer Modus erstellt |
-| 4.4    | 1.0.0     | 
+| 4.4    | 1.0.0     |   - Multiplayer funktioniert nun |
 
 ## 1 Informieren
 
