@@ -173,10 +173,10 @@ Total: 20h 40min
 |7.2      | 4.4      |                                   | Müller         |
 | 7.3     | 4.4      |                                   | Müller         |
 | 7.4     | 4.4      |                                   | Müller         |
-|8.1       | 4.4      |                                   |         |
-| 9.1      | 4.4      |                                 |         |
-| 10.1    | 4.4       |                                   |        |
-| 11.1      | 4.4     |                                   |            |
+|8.1       | 4.4      |                                   |Müller         |
+| 9.1      | 4.4      |                                 |Müller         |
+| 10.1    | 4.4       |                                   | Müller       |
+| 11.1      | 4.4     | Spiel startet                      |Müller      |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
