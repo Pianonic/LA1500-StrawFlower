@@ -137,19 +137,19 @@ Total: 20h 40min
 | 6.B  | 14.3  | Greub     | Ein 2. Spieler erscheint                                                   | 60 min        | 45 min            |
 | 6.C  | 14.3  | Greub     | Der 2. Spieler kann separat vom 1. gesteuert werden                        | 30 min        | 30 min            |
 | 6.D  | 21.3  | Erismann  | Objekte kommen auf der 2. Laufbahn auf den Spieler zu                      | 60 min        | 40 min            |
-| 7.A  |       |           | Shop Interface erstellen                                                   | 60 min        |                   |
-| 7.B  |       |           | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        |                   |
-| 7.C  |       |           | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        |                   |
-| 7.D  |       |           | Wenn ein Gegenstand gekauft wird, kann dieser nicht nochmal gekauft werden | 60 min        |                   |
-| 7.E  |       |           | Kosmetische Gegenstände werden auf den Spieler angewendet                  | 60 min        |                   |
-| 8.A  |       |           | Es erscheinen Münzen zufällig im Spielfeld                                 | 45 min        |                   |
-| 8.B  |       |           | Die Anzahl der eingesammelten Münzen wird gespeichert                      | 45 min        |                   |
-| 8.C  |       |           | Münzen können im Shop ausgegeben werden                                    | 45 min        |                   |
-| 9.A  |       |           | Die gekauften Gegenstände erhalten ihre Funktion                           | 60 min        |                   |
+| 7.A  | ❌     | ❌         | Shop Interface erstellen                                                   | 60 min        | ❌                 |
+| 7.B  | ❌     | ❌         | Verschiedene Gegenstände in den Shop einfügen                              | 45 min        | ❌                 |
+| 7.C  | ❌     | ❌         | Wenn ein Gegenstand gekauft wird, erhält der Spieler diesen                | 30 min        | ❌                 |
+| 7.D  | ❌     | ❌         | Wenn ein Gegenstand gekauft wird, kann dieser nicht nochmal gekauft werden | 60 min        | ❌                 |
+| 7.E  | ❌     | ❌         | Kosmetische Gegenstände werden auf den Spieler angewendet                  | 60 min        | ❌                 |
+| 8.A  | ❌     | ❌         | Es erscheinen Münzen zufällig im Spielfeld                                 | 45 min        | ❌                 |
+| 8.B  | ❌     | ❌         | Die Anzahl der eingesammelten Münzen wird gespeichert                      | 45 min        | ❌                 |
+| 8.C  | ❌     | ❌         | Münzen können im Shop ausgegeben werden                                    | 45 min        | ❌                 |
+| 9.A  | ❌     | ❌         | Die gekauften Gegenstände erhalten ihre Funktion                           | 60 min        | ❌                 |
 | 10.A | 21.3  | Lutziger  | Mit der vergangenen Zeit zählt ein Score immer weiter nach oben            | 45 min        | 180 min           |
-| 10.B |       |           | Beim Tod soll der Score angezeigt werden                                   | 30 min        |                   |
-| 10.C |       |           | Der Highscore soll gespeichert werden                                      | 45 min        |                   |
-| 11.A |       |           | Die Anzahl der Münzen soll während dem Spiel angezeigt werden              | 30 min        |                   |
+| 10.B | ❌     | ❌         | Beim Tod soll der Score angezeigt werden                                   | 30 min        | ❌                 |
+| 10.C | ❌     | ❌         | Der Highscore soll gespeichert werden                                      | 45 min        | ❌                 |
+| 11.A | ❌     | ❌         | Die Anzahl der Münzen soll während dem Spiel angezeigt werden              | 30 min        | ❌                 |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
